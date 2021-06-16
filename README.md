@@ -1,2 +1,2 @@
 # Calculator-using-stack
-Calculator using stack
+calculator using expression evaluation 
